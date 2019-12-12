@@ -26,7 +26,7 @@ The developers will contribute to below projects:<br>
 
 ## Format of Support
 
-Generally speaking, the support will be given as a one-off or monthly grant for an agreed period with a scope of works. The grant will be composed of USD equivalent BTC, Atoms and Desmos future tokens. We will discuss the details individually.
+Generally speaking, the support will be given as a one-off or monthly grant for an agreed period with a scope of works. The grant will be composed of future Desmos tokens. We will discuss the details individually.
 
 ## Call-to-Action
 
